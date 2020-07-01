@@ -57,3 +57,34 @@ var y=6;
 var z=x+y;
  
 int float double Boolean
+
+=
++=
+-=
+*=
+/=
+%=
+**=
+
+var txt1 = "John";
+var txt2 = "Doe";
+
+var txt3 = txt1 + "" + txt2;
+John Doe
+
+var txt1 = "What a very";
+txt1 += "nice day";
+
+print   What a very nice day.Boolean
+
+var x = 5 + 5;
+var y = "5" + 5;
+var z = "Hello" + 5;
+
+10
+55
+Hello5
+
+1. typeof
+2. instanceof
+
